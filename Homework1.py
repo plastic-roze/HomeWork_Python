@@ -84,4 +84,4 @@ def main():
             print("\nОшибка: выберите пункт от 1 до 5")
 
 if __name__ == "__main__":
-    main()5
+    main()
